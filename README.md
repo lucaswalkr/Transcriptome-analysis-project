@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------
-University of Bristol - MSc Bioinformatics - Group Project
-by Lucy Sibbring, Yilong Yang and Lucas Walker (Group 3) 
+University of Bristol - MSc Bioinformatics - Group Project  
+by Lucas Walker, Lucy Sibbring and Yilong Yang
 --------------------------------------------------------------
 
 ## Overview 
