@@ -13,7 +13,7 @@ This pipeline assumes you have access to or are considering the use of expressed
 3. Understand the output files produced.
 4. Be able to repeat analyses on future EST datasets.
 
-The EST data used for this project was obtained from the [sanger institute](https://www.sanger.ac.uk/resources/downloads/protozoa/trypanosoma-congolense.html)
+The EST data used for this project was obtained from the [sanger institute](https://www.sanger.ac.uk/resources/downloads/protozoa/trypanosoma-congolense.html).
 
 ## List of files 
 
