@@ -1,8 +1,9 @@
------------------------------------------------------------------------------------------
-University of Bristol - MSc Bioinformatics - Group Project  
-by Lucas Walker, Lucy Sibbring and Yilong Yang
---------------------------------------------------------------
+Transcriptome analysis of Trypanosoma congolense  
+------------------------------------
+A modular bioinformatic pipeline for exploring EST data from T. congolense  
+*by Lucas Walker, Lucy Sibbring and Yilong Yang*
 
+(University of Bristol - MSc Bioinformatics Group Project)
 ## Overview 
 
 Here you will find all the necessary files and guidance to follow a bioinformatic pipeline to assist with analysing transcriptomic data from the pathogen Trypanosoma congolense.
