@@ -3,7 +3,6 @@ Transcriptome analysis of Trypanosoma congolense
 A modular bioinformatic pipeline for exploring EST data from T. congolense  
 *by Lucas Walker, Lucy Sibbring and Yilong Yang*
 
-(University of Bristol - MSc Bioinformatics Group Project)
 ## Overview 
 
 Here you will find all the necessary files and guidance to follow a bioinformatic pipeline to assist with analysing transcriptomic data from the pathogen Trypanosoma congolense.
@@ -66,3 +65,5 @@ As the analysis will need to be performed on your local system, there are some r
 	- (This step is not necessary if you already have an IDE such as pycharm or visual studio installed to read and write python code).
 
 8. You're all set! Open the document named "Transcriptome Analysis of Trypanosoma Congolense" in this archive and follow on with our analysis.
+
+(University of Bristol - MSc Bioinformatics - Group Project)
